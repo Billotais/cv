@@ -56,42 +56,35 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: EPFL
+    - degree: Master in Computer Science
+      university: EPFL, Lausanne
       time: 2018-2020
       details: |
-       Specialization: Data Analytics
+       - Specialization: Data Analytics
 
-          - Bullet point
-          - Bullet point
 
     - degree: Study Exchange
-      university: Linköpings Universitet
+      university: LiU, Linköping
       time: 2017-2018
       details: |
-        10 months study exchange during the third Bachelor year.
-
-
-          - Bullet point
-          - Bullet point
+        - 10 months study exchange during the third Bachelor year
           
     - degree: Bachelor in Computer Science
-      university: EPFL
+      university: EPFL, Lausanne
       time: 2015-2018
       details: |
-        Optional Track : Visual Computing
-          - Bullet point
-          - Bullet point
+        - GPA : 5.47 / 6.0 
+        - Optional Track : Visual Computing
           
     - degree: Maturité Gymnasiale
-      university: Gymnase de Burier
+      university: Gymnase de Burier, La Tour-de-Peilz
       time: 2012-2015
       details: |
        - Specific Option : Physics and application of Mathematics
        - Complementary Option : Computer Science
        
-    - degree: Certificat d’études secondaires,
-      university:  Collège des Mousquetaires
+    - degree: Certificat d’études secondaires
+      university:  Collège des Mousquetaires, La Tour-de-Peilz
       time: 2009-2012
       details: |
        Specific Option : Mathematics and Physics
@@ -99,96 +92,53 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Summer Internship in an Architectural Firm
+      time: 2018
+      company: ABA Partenaires SA, Lausanne
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Modification and correction of blueprints.
+        - Processing replies to requests for tender.
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Private Tutor
+      time: 2015-2017
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Mathematics tutoring for young Students in their 9th and 10th year (Secondary Cycle)
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Many programming projects I worked on during my studies and my free time
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: The Quest for The Holy Grail
+        link: "https://github.com/Billotais/TSBK07_project"
+        tagline: "Creation of a 3D maze game with different objectives, world physics, lightning effects, drawing optimisation. user interface and sound effects. Done in C and OpenGL in 2018 at LiU."
 
-      - title: DevStudio
+      - title: Part-of-Speech Tagger and Dependency Parser
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Implementation of a Part-of-speech tagger using a multi-class perceptron classifier (with an accuracy of more than 93%) and a sentence dependency parser (with an accuracy of more than 76%). Done in Python at EPFL"
 
-      - title: Tempo
+
+      - title: Tankode
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: 3D game - Tangible user interaction
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: XBlast
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+      - title: La Pipopipette
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

@@ -104,7 +104,7 @@ experiences:
       time: 2015-2017
       company: 
       details: |
-        Mathematics tutoring for young Students in their 9th and 10th year (Secondary Cycle)
+        - Mathematics tutoring for Students in their 9th and 10th school year (Secondary Cycle)
 
 
 
@@ -145,17 +145,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, Pandas, Matplotlib & Scikit-learn
+      - name: Python
+        level: 90%
       - name: Java
+        level: 80%
       - name: Scala
+        level: 70%
       - name: C/C++
+        level: 70%
       - name: MySQL
+        level: 50%
       - name: Spark
+        level: 50%
       - name: HTML, PHP, CSS
+        level: 40%
       - name: LaTeX
+        level: 30%
       - name: Assembly, VHDL
-      
-      
+        level: 20%
+
 
 
 footer: >

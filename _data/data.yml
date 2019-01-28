@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Loïs Bilat
@@ -16,7 +16,7 @@ sidebar:
     phone: 078 645 94 84
     website: bilat.xyz #do not add http://
     linkedin: lois-bilat
-    github: nillotais
+    github: billotais
     gitlab: billotais
     bitbucket:
     twitter: '@Billotais'

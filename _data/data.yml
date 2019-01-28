@@ -114,53 +114,49 @@ projects:
       Many programming projects I worked on during my studies and my free time
 
     assignments:
-      - title: The Quest for The Holy Grail
+      - title: The Quest for The Holy Grail - C and OpenGL - 2018
         link: "https://github.com/Billotais/TSBK07_project"
-        tagline: "Creation of a 3D maze game with different objectives, world physics, lightning effects, drawing optimisation. user interface and sound effects. Done in C and OpenGL in 2018 at LiU."
+        tagline: "Creation of a 3D maze game with different objectives, world physics, lightning effects, drawing optimisation. user interface and sound effects."
 
-      - title: Part-of-Speech Tagger and Dependency Parser
+      - title: Part-of-Speech Tagger and Dependency Parser - Python - 2018
+        link: "https://github.com/Billotais/TDDE09_project"
+        tagline: "Implementation of a Part-of-speech tagger using a multi-class perceptron classifier (with an accuracy of more than 93%) and a sentence dependency parser (with an accuracy of more than 76%)"
+
+
+      - title: Tankode - Java and Android Studio - 2017
         link: "#"
-        tagline: "Implementation of a Part-of-speech tagger using a multi-class perceptron classifier (with an accuracy of more than 93%) and a sentence dependency parser (with an accuracy of more than 76%). Done in Python at EPFL"
+        tagline: "Creation of an educative video game where the behavior of a Tank had to be programmed by the user. This game was programmed for Android during the Junction Hackathon in Helsinki."
 
 
-      - title: Tankode
+      - title: 3D game - Tangible user interaction - Java and Processing - 2017
+        link: "https://github.com/Billotais/cs_211"
+        tagline: "Creation of a dexterity 3D game where the environnement had to be controled by moving aLEGO board in front of a camera. It implemented some image processing and recognitionand was done using Processing."
+
+      - title: XBlast - Java - 2016
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: 3D game - Tangible user interaction
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: XBlast
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Creation of a multiplayer video game based on the game Bomberman. It could be played byup to 4 player on different computers."
         
-      - title: La Pipopipette
+      - title: La Pipopipette - Objecttive-C - 2015
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Creation of a multiplayer video game for iOS based on the game Dots and Boxes as my Maturity Project. Anartificial Intelligence was implemented."
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python, Pandas, Matplotlib & Scikit-learn
+      - name: Java
+      - name: Scala
+      - name: C/C++
+      - name: MySQL
+      - name: Spark
+      - name: HTML, PHP, CSS
+      - name: LaTeX
+      - name: Assembly, VHDL
+      
+      
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

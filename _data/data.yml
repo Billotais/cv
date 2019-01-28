@@ -138,7 +138,7 @@ projects:
         
       - title: La Pipopipette - Objecttive-C - 2015
         link: "#"
-        tagline: "Creation of a multiplayer video game for iOS based on the game Dots and Boxes as my Maturity Project. Anartificial Intelligence was implemented."
+        tagline: "Creation of a multiplayer video game for iOS based on the game Dots and Boxes as my Maturity Project. An artificial Intelligence was implemented."
 
 
 skills:
@@ -152,11 +152,11 @@ skills:
       - name: C/C++
         level: 75%
       - name: Scala
-        level: 70%
+        level: 75%
       - name: MySQL
-        level: 60%
+        level: 65%
       - name: Spark
-        level: 60%
+        level: 65%
       - name: HTML, PHP, CSS
         level: 40%
       - name: LaTeX

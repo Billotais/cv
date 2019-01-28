@@ -134,7 +134,7 @@ projects:
 
       - title: XBlast - Java - 2016
         link: "#"
-        tagline: "Creation of a multiplayer video game based on the game Bomberman. It could be played byup to 4 player on different computers."
+        tagline: "Creation of a multiplayer video game based on the game Bomberman. It could be played by up to 4 player on different computers."
         
       - title: La Pipopipette - Objecttive-C - 2015
         link: "#"
@@ -149,14 +149,14 @@ skills:
         level: 90%
       - name: Java
         level: 80%
+      - name: C/C++
+        level: 75%
       - name: Scala
         level: 70%
-      - name: C/C++
-        level: 70%
       - name: MySQL
-        level: 50%
+        level: 60%
       - name: Spark
-        level: 50%
+        level: 60%
       - name: HTML, PHP, CSS
         level: 40%
       - name: LaTeX

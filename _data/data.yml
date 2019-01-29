@@ -47,13 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+     Currently studying for a Master in Computer Science at EPFL. I am particularly interested in Machine Learning and Data Analysis. 
 
 education:
     - degree: Master in Computer Science
@@ -117,7 +111,7 @@ projects:
     
       - title: Detecting Bias in Amazon reviews - Python - 2018
         link: "https://ada-lyn.github.io/"
-        tagline: "A Data Story about the potential bias that can be found in Amazon's user reviews, and how to correct it. Various tools inncluding Pandas, pyspark, and matplotlib were used."
+        tagline: "A Data Story about the potential bias that can be found in Amazon user reviews, and how to correct it. Various tools inncluding Pandas, pyspark, and matplotlib were used."
       
       - title: The Quest for The Holy Grail - C and OpenGL - 2018
         link: "https://github.com/Billotais/TSBK07_project"

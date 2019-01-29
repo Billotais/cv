@@ -114,6 +114,11 @@ projects:
       Many programming projects I worked on during my studies and my free time
 
     assignments:
+    
+      - title: Detecting Bias in Amazon reviews - Python - 2018
+        link: "https://ada-lyn.github.io/"
+        tagline: "A Data Story about the potential bias that can be found in Amazon's user reviews, and how to correct it. Various tools inncluding Pandas, pyspark, and matplotlib were used."
+      
       - title: The Quest for The Holy Grail - C and OpenGL - 2018
         link: "https://github.com/Billotais/TSBK07_project"
         tagline: "Creation of a 3D maze game with different objectives, world physics, lightning effects, drawing optimisation. user interface and sound effects."

@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Buisness Level
+        level: Business Level
 
       - idiom: German
         level: Conversational Level
@@ -76,7 +76,6 @@ education:
       details: |
        - Specific Option : Physics and application of Mathematics.
        - Complementary Option : Computer Science.
-       - P
        
     - degree: Certificat d’études secondaires
       university:  Collège des Mousquetaires, La Tour-de-Peilz

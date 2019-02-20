@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Buisness Level
+        level: Business Level
 
       - idiom: German
         level: Conversational Level
@@ -47,13 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+     Currently studying for a Master in Computer Science at EPFL. I am particularly interested in Machine Learning and Data Analysis. 
 
 education:
     - degree: Master in Computer Science
@@ -80,14 +74,14 @@ education:
       university: Gymnase de Burier, La Tour-de-Peilz
       time: 2012-2015
       details: |
-       - Specific Option : Physics and application of Mathematics
-       - Complementary Option : Computer Science
+       - Specific Option : Physics and application of Mathematics.
+       - Complementary Option : Computer Science.
        
     - degree: Certificat d’études secondaires
       university:  Collège des Mousquetaires, La Tour-de-Peilz
       time: 2009-2012
       details: |
-       Specific Option : Mathematics and Physics
+       Specific Option : Mathematics and Physics.
 
 
 
@@ -111,22 +105,25 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Many programming projects I worked on during my studies and my free time
+      Many programming projects I worked on during my studies and my free time, both alone and in small groups
 
     assignments:
+    
+      - title: Detecting Bias in Amazon reviews - Python - 2018
+        link: "https://ada-lyn.github.io/"
+        tagline: "A Data Story about the potential bias that can be found in Amazon user reviews, and how to correct it. Various tools including Pandas, pyspark, and matplotlib were used."
+      
       - title: The Quest for The Holy Grail - C and OpenGL - 2018
         link: "https://github.com/Billotais/TSBK07_project"
         tagline: "Creation of a 3D maze game with different objectives, world physics, lightning effects, drawing optimisation. user interface and sound effects."
 
       - title: Part-of-Speech Tagger and Dependency Parser - Python - 2018
         link: "https://github.com/Billotais/TDDE09_project"
-        tagline: "Implementation of a Part-of-speech tagger using a multi-class perceptron classifier (with an accuracy of more than 93%) and a sentence dependency parser (with an accuracy of more than 76%)"
-
+        tagline: "Implementation of a Part-of-speech tagger using a multi-class perceptron classifier (with an accuracy of more than 93%) and a sentence dependency parser (with an accuracy of more than 76%)."
 
       - title: Tankode - Java and Android Studio - 2017
         link: "#"
         tagline: "Creation of an educative video game where the behavior of a Tank had to be programmed by the user. This game was programmed for Android during the Junction Hackathon in Helsinki."
-
 
       - title: 3D game - Tangible user interaction - Java and Processing - 2017
         link: "https://github.com/Billotais/cs_211"

@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Currently studying for a Master in Computer Science at EPFL. I am particularly interested in Machine Learning and Data Analysis. You can also <a href="http://themes.3rdwavemedia.com">download</a> my resume.
+     Currently studying for a Master in Computer Science at EPFL. I am particularly interested in Machine Learning and Data Analysis. You can also <a href="https://github.com/Billotais/cv/raw/master/_data/cv.pdf">download</a> my resume.
 
 education:
     - degree: Master in Computer Science

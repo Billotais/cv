@@ -133,7 +133,7 @@ projects:
 
       - title: 3D game - Tangible user interaction - Java and Processing - 2017
         link: "https://github.com/Billotais/cs_211"
-        tagline: "Creation of a dexterity 3D game where the environnement had to be controled by moving aLEGO board in front of a camera. It implemented some image processing and recognitionand was done using Processing."
+        tagline: "Creation of a dexterity 3D game where the environnement had to be controled by moving a LEGO board in front of a camera. It implemented some image processing and recognitionand was done using Processing."
 
       - title: XBlast - Java - 2016
         link: "#"
